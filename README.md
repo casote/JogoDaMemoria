@@ -32,7 +32,7 @@ Execute através do arquivo **JogoDaMemoriaFinalizado.exe**
 
 Abra o projeto no Visual Studio, compile e execute o projeto.
 
--JogoDaMemoriaFinalizado  
+📂JogoDaMemoriaFinalizado  
    ├── bin  
    │   └── Debug  
    │       └── JogoDaMemoriaFinalizado.exe  
