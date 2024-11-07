@@ -46,8 +46,8 @@ Abra o projeto no Visual Studio, compile e execute o projeto.
    │   └── Debug  
    │  
    ├── JogoDaMemoriaFinalizado.csproj---# Arquivo de projeto  
-   ├── Program.cs-----------------------------# Código principal para execução do jogo  
-   ├── Form1.cs-------------------------------# Formulário principal do jogo (se usar WinForms)  
+   ├── Program.cs---------------------------# Código principal para execução do jogo  
+   ├── Form1.cs-----------------------------# Formulário principal do jogo (se usar WinForms)  
    ├── (outros arquivos de código fonte)  
    ├── Properties  
    │     
