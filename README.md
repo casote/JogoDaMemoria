@@ -27,7 +27,7 @@ Clone o repositório:
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/jogo-da-memoria-animais.git
+git clone https://github.com/casote/JogoDaMemoria
 
 Abra o projeto no Visual Studio.
 
