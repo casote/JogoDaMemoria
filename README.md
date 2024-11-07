@@ -1,4 +1,4 @@
-🕹️ Jogo da Memória de achar pares Animais 🦁 
+🕹️ Jogo da Memória - Ache os pares dos animais 🦁 
 
 Este é um simples jogo da memória desenvolvido em C# usando Windows Forms (.NET Framework). O objetivo do jogo é combinar pares de imagens de animais dentro de um tempo específico.
 
