@@ -12,7 +12,7 @@ namespace JogoDaMemoria
         private List<Button> botaoLista; // Lista de botões no jogo
         private List<Image> imagemLista; // Lista de imagens para o jogo da memória
         private Button primeiroBotao, segundoBotao; // Botões selecionados para comparação
-        private int paresEncontrados; // Contador de pares encontrados
+        private int paresEncontrados = 9; // Contador de pares encontrados
         private bool verificandoPar; // Indicador de estado de verificação de par
         private FormInicio telaInicial; // Referência à tela de início
         private TableLayoutPanel layoutJogo; // Layout para organizar os botões do jogo
@@ -31,6 +31,8 @@ namespace JogoDaMemoria
         {
             WindowState = FormWindowState.Maximized; // Maximiza a janela
             FormBorderStyle = FormBorderStyle.None; // Remove as bordas da janela
+            BackColor = Color.Black; // Fundo preto
+
         }
 
         // Método para inicializar o jogo
@@ -150,7 +152,9 @@ namespace JogoDaMemoria
 
                     if (paresEncontrados == 10) // Checa se todos os pares foram encontrados
                     {
-                        MessageBox.Show("Parabéns! Você encontrou todos os pares!"); // Exibe mensagem de vitória
+                        FormCreditos telaCreditos = new FormCreditos();  // Cria a tela de créditos
+                        telaCreditos.Show();  // Exibe a tela de créditos
+                        this.Hide();  // Esconde o formulário atual
                     }
 
                     ResetarSelecao(); // Reseta seleção para próxima jogada
@@ -193,6 +197,7 @@ namespace JogoDaMemoria
         private void BotaoFecharJogo_Click(object sender, EventArgs e)
         {
             Process.GetCurrentProcess().Kill(); // Encerra o aplicativo
+            Application.Exit();  // Fecha o jogo
         }
     }
 }

@@ -17,3 +17,4 @@ C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.csproj.
 C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.csproj.CoreCompileInputs.cache
 C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoriaFinalizado.exe
 C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoriaFinalizado.pdb
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.FormCreditos.resources
