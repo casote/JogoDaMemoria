@@ -22,6 +22,10 @@ O objetivo é encontrar todos os pares de cartas.
 
 🚀 Configuração e Execução
 
+1. Baixe ou clone o repositório:
+   ```bash
+   git clone https://github.com/casote/JogoDaMemoria.git
+
 Execute através do arquivo .exe
 ou
 Abra o projeto no Visual Studio.
