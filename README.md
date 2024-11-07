@@ -26,12 +26,13 @@ O objetivo é encontrar todos os pares de cartas.
    ```bash
    git clone https://github.com/casote/JogoDaMemoria.git
 
-Execute através do arquivo .exe
-ou
-Abra o projeto no Visual Studio.
-Compile e execute o projeto.
+Execute através do arquivo **JogoDaMemoriaFinalizado.exe**
 
- JogoDaMemoriaFinalizado
+*ou*
+
+Abra o projeto no Visual Studio, compile e execute o projeto.
+
+-JogoDaMemoriaFinalizado  
    ├── bin  
    │   └── Debug  
    │       └── JogoDaMemoriaFinalizado.exe  
