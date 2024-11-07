@@ -19,8 +19,8 @@ O objetivo é encontrar todos os pares de cartas.
 
 Baixe clicando em Code, depois em download.
 
-<img src="https://github.com/user-attachments/assets/d68d66d7-cc88-4dfa-9f24-3ce70d81dda8
- " width="400" height="300">
+<img src="![Imagem](https://github.com/user-attachments/assets/e574d788-a12c-4369-9aa0-6783cc11b11e)
+" width="400" height="300">
 
 
 *ou* 
