@@ -21,38 +21,32 @@ Se as imagens forem diferentes, as cartas serão viradas para baixo novamente.
 O objetivo é encontrar todos os pares de cartas.
 
 🚀 Configuração e Execução
-Para executar este projeto localmente:
 
-Clone o repositório:
-
-bash
-Copy code
-git clone https://github.com/casote/JogoDaMemoria
-
+Execute através do arquivo .exe
+ou
 Abra o projeto no Visual Studio.
-
 Compile e execute o projeto.
+
+ JogoDaMemoriaFinalizado
+   ├── bin
+   │   └── Debug
+   │       └── JogoDaMemoriaFinalizado.exe
+   │
+   ├── obj
+   │   └── Debug
+   │
+   ├── JogoDaMemoriaFinalizado.csproj   # Arquivo de projeto
+   ├── Program.cs                       # Código principal para execução do jogo
+   ├── Form1.cs                         # Formulário principal do jogo (se usar WinForms)
+   ├── (outros arquivos de código fonte)
+   ├── Properties
+   │   
+   └── (outros arquivos e pastas de recursos)
 
 Requisitos
 .NET Framework (compatível com o Windows Forms)
 Visual Studio (recomendado para desenvolvimento e execução)
-📂 Estrutura do Diretório
-arduino
-Copy code
-JogoDaMemoriaOng
-│
-├── Properties
-├── References
-│   ├── animals1.png
-│   ├── animals2.png
-│   ├── ...
-│   └── animals10.png
-├── App.config
-├── Form1.cs
-├── Form1.Designer.cs
-├── Form1.resx
-├── Form1Base.cs (opcional, se usado)
-└── Program.cs
+
 
 🛠️ Tecnologias Utilizadas
 C# - Linguagem de programação
