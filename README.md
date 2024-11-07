@@ -10,11 +10,11 @@ O jogo foi criado como uma atividade educativa para ajudar no desenvolvimento da
 
 O projeto inclui os seguintes arquivos principais:
 
-Form1.cs-------------------------------#Arquivo principal que contém a lógica do jogo.  
-Form1.Designer.cs---------------------#Designer do formulário, que define a interface do jogo.  
-Form1.resx-----------------------------#Recurso que contém as imagens usadas no jogo.  
-Program.cs-----------------------------#Ponto de entrada do aplicativo.  
-Imagens--------------------------------#Pasta que contém 10 imagens de animais de animals1.png até animals10.png.  
+Form1.cs-------------------------#Arquivo principal que contém a lógica do jogo.  
+Form1.Designer.cs---------------#Designer do formulário, que define a interface do jogo.  
+Form1.resx-----------------------#Recurso que contém as imagens usadas no jogo.  
+Program.cs-----------------------#Ponto de entrada do aplicativo.  
+Imagens--------------------------#Pasta que contém 10 imagens de animais de animals1.png até animals10.png.  
 
 🎮 Como Jogar  
 
