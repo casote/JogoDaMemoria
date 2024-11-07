@@ -78,4 +78,4 @@ Exibir a pontuação ou tempo ao final do jogo.
 Suporte para diferentes conjuntos de imagens.
 
 📄 Licença  
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE] para mais detalhes.
