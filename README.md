@@ -53,21 +53,25 @@ Abra o projeto no Visual Studio, compile e execute o projeto.
    │     
    └── (outros arquivos e pastas de recursos)  
 
-Requisitos  
+📝Requisitos  
+
 .NET Framework (compatível com o Windows Forms)
 Visual Studio (recomendado para desenvolvimento e execução)
 
 
 🛠️ Tecnologias Utilizadas  
+
 C# - Linguagem de programação
 Windows Forms (.NET Framework) - Biblioteca para interface gráfica
 
 💡 Funcionalidades  
+
 Interface gráfica simples e amigável.
 Jogo interativo com imagens de animais.
 Contador de tentativas e tempo de jogo (se implementado).
 
 📈 Melhorias Futuras  
+
 Adicionar sons ao virar as cartas e ao acertar pares.
 Implementar um temporizador para adicionar dificuldade.
 Exibir a pontuação ou tempo ao final do jogo.
