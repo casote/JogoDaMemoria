@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|solutionrelative:formcredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|solutionrelative:forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\forminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|solutionrelative:forminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\formcredits.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,16 +57,17 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T03:24:46.416Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,7 +79,8 @@
               "RelativeToolTip": "FormCredits.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:54:00.732Z"
+              "WhenOpened": "2024-11-07T05:54:00.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,7 +104,8 @@
               "ToolTip": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\FormCredits.cs [Design]",
               "RelativeToolTip": "FormCredits.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:35:43.784Z"
+              "WhenOpened": "2024-11-07T05:35:43.784Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -118,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Forminicio.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Forminicio.cs",
               "RelativeDocumentMoniker": "Forminicio.cs",
@@ -129,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -137,11 +140,12 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T04:02:01.799Z"
+              "WhenOpened": "2024-11-02T04:02:01.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -153,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Forminicio.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Forminicio.cs",
               "RelativeDocumentMoniker": "Forminicio.cs",
@@ -165,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Forminicio.Designer.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Forminicio.Designer.cs",
               "RelativeDocumentMoniker": "Forminicio.Designer.cs",
@@ -184,7 +188,8 @@
               "ToolTip": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T03:23:39.707Z"
+              "WhenOpened": "2024-11-02T03:23:39.707Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
