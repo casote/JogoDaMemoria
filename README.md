@@ -33,6 +33,7 @@ Execute através do arquivo **JogoDaMemoriaFinalizado.exe**
 *ou*  
   
 Abra o projeto no Visual Studio, compile e execute o projeto.  
+  
 
 📝 Estrutura do Projeto  
 
