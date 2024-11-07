@@ -17,7 +17,9 @@ Program.cs-----------------------------#Ponto de entrada do aplicativo.
 Imagens--------------------------------#Pasta que contém 10 imagens de animais (de animals1.png até animals10.png) usadas no jogo da memória.  
 
 🎮 Como Jogar  
-Abra o jogo e você verá um grid de cartas viradas para baixo.
+
+Abra o jogo e  você verá a tela inicial, **clique em jogar.**  
+Você verá um grid de cartas viradas para baixo.
 Clique em duas cartas para revelá-las.
 Se as imagens das cartas coincidirem, elas permanecem viradas.
 Se as imagens forem diferentes, as cartas serão viradas para baixo novamente.
