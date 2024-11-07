@@ -19,7 +19,7 @@ O objetivo é encontrar todos os pares de cartas.
 
 Baixe clicando em Code, depois em download.
 
-![image](https://github.com/user-attachments/assets/a3cf9da8-874e-4d0e-b568-5977bbe97d70)
+![image](https://github.com/user-attachments/assets/f62b9601-eac5-4ba8-bddf-69c6518cb68e)
 
 
 *ou* 
