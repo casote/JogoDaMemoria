@@ -6,16 +6,6 @@ Este é um simples jogo da memória desenvolvido em C# usando Windows Forms (.NE
 
 O jogo foi criado como uma atividade educativa para ajudar no desenvolvimento da memória e concentração. O jogador precisa encontrar e combinar os pares de imagens de animais até que todas as cartas sejam reveladas.
 
-📝 Estrutura do Projeto  
-
-O projeto inclui os seguintes arquivos principais:
-
-Form1.cs-------------------------#Arquivo principal que contém a lógica do jogo.  
-Form1.Designer.cs---------------#Designer do formulário, que define a interface do jogo.  
-Form1.resx-----------------------#Recurso que contém as imagens usadas no jogo.  
-Program.cs-----------------------#Ponto de entrada do aplicativo.  
-Imagens--------------------------#Pasta que contém 10 imagens de animais de animals1.png até animals10.png.  
-
 🎮 Como Jogar  
 
 Abra o jogo e  você verá a tela inicial, **clique em jogar.**  
@@ -36,6 +26,8 @@ Execute através do arquivo **JogoDaMemoriaFinalizado.exe**
 *ou*  
 
 Abra o projeto no Visual Studio, compile e execute o projeto.  
+
+📝 Estrutura do Projeto  
 
 📂JogoDaMemoriaFinalizado  
    ├── bin  
