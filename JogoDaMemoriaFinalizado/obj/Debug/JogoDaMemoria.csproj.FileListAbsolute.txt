@@ -1,0 +1,10 @@
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\JogoDaMemoriaFinalizado\bin\Debug\JogoDaMemoriaFinalizado.exe
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\JogoDaMemoriaFinalizado\bin\Debug\JogoDaMemoriaFinalizado.pdb
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\JogoDaMemoriaFinalizado\obj\Debug\JogoDaMemoria.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\JogoDaMemoriaFinalizado\obj\Debug\JogoDaMemoria.Form1.resources
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\JogoDaMemoriaFinalizado\obj\Debug\JogoDaMemoria.FormInicio.resources
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\JogoDaMemoriaFinalizado\obj\Debug\JogoDaMemoriaFinalizado.Properties.Resources.resources
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\JogoDaMemoriaFinalizado\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\JogoDaMemoriaFinalizado\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\JogoDaMemoriaFinalizado\obj\Debug\JogoDaMemoriaFinalizado.exe
+C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\JogoDaMemoriaFinalizado\obj\Debug\JogoDaMemoriaFinalizado.pdb
