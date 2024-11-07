@@ -1,10 +1,13 @@
-Jogo da Memória de Animais 🦁  
+🕹️ Jogo da Memória de achar pares Animais 🦁 
+
 Este é um simples jogo da memória desenvolvido em C# usando Windows Forms (.NET Framework). O objetivo do jogo é combinar pares de imagens de animais dentro de um tempo específico.
 
 📋 Sobre o Projeto  
+
 O jogo foi criado como uma atividade educativa para ajudar no desenvolvimento da memória e concentração. O jogador precisa encontrar e combinar os pares de imagens de animais até que todas as cartas sejam reveladas.
 
 Estrutura do Projeto  
+
 O projeto inclui os seguintes arquivos principais:
 
 Form1.cs: Arquivo principal que contém a lógica do jogo.
