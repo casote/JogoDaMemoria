@@ -70,7 +70,7 @@ Interface gráfica simples e amigável.
 Jogo interativo com imagens de animais.  
 Contador de tentativas e tempo de jogo (se implementado).  
 
-📈 Melhorias Futuras  
+🔮 Melhorias Futuras 📈 
 
 Adicionar sons ao virar as cartas e ao acertar pares.  
 Implementar um temporizador para adicionar dificuldade.  
