@@ -18,3 +18,14 @@ C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.csproj.
 C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoriaFinalizado.exe
 C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoriaFinalizado.pdb
 C:\Users\gabri\Desktop\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.FormCreditos.resources
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\bin\Release\JogoDaMemoriaFinalizado.exe
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\bin\Release\JogoDaMemoriaFinalizado.pdb
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.Form1.resources
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.FormCreditos.resources
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.FormInicio.resources
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoriaFinalizado.Properties.Resources.resources
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoriaFinalizado.exe
+C:\Users\gabri\Documents\GitHub\JogoDaMemoria\JogoDaMemoriaFinalizado\obj\Release\JogoDaMemoriaFinalizado.pdb
