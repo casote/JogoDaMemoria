@@ -17,7 +17,7 @@ O objetivo é encontrar todos os pares de cartas.
 
 🚀 Configuração e Execução  
 
-Baixe clicando em Code, depois em download.
+Baixe clicando em Code, depois em download ZIP.
 
 ![384063455-a3cf9da8-874e-4d0e-b568-5977bbe97d70](https://github.com/user-attachments/assets/b72bb5ff-5a6c-4f9a-96fd-85eec84fde83)
 
