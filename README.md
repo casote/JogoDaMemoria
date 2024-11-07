@@ -28,20 +28,20 @@ Abra o projeto no Visual Studio.
 Compile e execute o projeto.
 
  JogoDaMemoriaFinalizado
-   ├── bin
-   │   └── Debug
-   │       └── JogoDaMemoriaFinalizado.exe
+   ├── bin  
+   │   └── Debug  
+   │       └── JogoDaMemoriaFinalizado.exe  
    │
-   ├── obj
-   │   └── Debug
+   ├── obj  
+   │   └── Debug  
    │
-   ├── JogoDaMemoriaFinalizado.csproj   # Arquivo de projeto
-   ├── Program.cs                       # Código principal para execução do jogo
-   ├── Form1.cs                         # Formulário principal do jogo (se usar WinForms)
-   ├── (outros arquivos de código fonte)
-   ├── Properties
-   │   
-   └── (outros arquivos e pastas de recursos)
+   ├── JogoDaMemoriaFinalizado.csproj   # Arquivo de projeto  
+   ├── Program.cs                       # Código principal para execução do jogo  
+   ├── Form1.cs                         # Formulário principal do jogo (se usar WinForms)  
+   ├── (outros arquivos de código fonte)  
+   ├── Properties  
+   │     
+   └── (outros arquivos e pastas de recursos)  
 
 Requisitos
 .NET Framework (compatível com o Windows Forms)
