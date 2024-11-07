@@ -6,7 +6,7 @@ Este é um simples jogo da memória desenvolvido em C# usando Windows Forms (.NE
 
 O jogo foi criado como uma atividade educativa para ajudar no desenvolvimento da memória e concentração. O jogador precisa encontrar e combinar os pares de imagens de animais até que todas as cartas sejam reveladas.
 
-Estrutura do Projeto  
+📝 Estrutura do Projeto  
 
 O projeto inclui os seguintes arquivos principais:
 
