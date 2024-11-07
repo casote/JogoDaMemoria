@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|c:\\users\\gabri\\desktop\\jogodamemoriafinalizado\\formcredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|c:\\users\\gabri\\desktop\\jogodamemoriafinalizado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\formcredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|solutionrelative:formcredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\formcredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|solutionrelative:formcredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA497636-64E2-4027-A4DE-CF3FCB56E4E0}|JogoDaMemoria.csproj|C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -53,17 +53,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T03:24:46.416Z",
               "IsPinned": true,
@@ -79,33 +79,30 @@
               "RelativeToolTip": "FormCredits.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:54:00.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T05:54:00.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormCredits.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\FormCredits.cs",
               "RelativeDocumentMoniker": "FormCredits.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\FormCredits.cs",
               "RelativeToolTip": "FormCredits.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:36:15.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T05:36:15.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FormCredits.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\FormCredits.cs",
               "RelativeDocumentMoniker": "FormCredits.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\FormCredits.cs [Design]",
               "RelativeToolTip": "FormCredits.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T05:35:43.784Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-07T05:35:43.784Z"
             },
             {
               "$type": "Document",
@@ -140,8 +137,7 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T04:02:01.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T04:02:01.799Z"
             },
             {
               "$type": "Document",
@@ -188,8 +184,7 @@
               "ToolTip": "C:\\Users\\gabri\\Desktop\\JogoDaMemoriaFinalizado\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T03:23:39.707Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-02T03:23:39.707Z"
             }
           ]
         }
