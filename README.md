@@ -40,7 +40,7 @@ Abra o projeto no Visual Studio, compile e execute o projeto.
    │----------└── JogoDaMemoriaFinalizado.exe-# Arquivo executável  
    │
    ├── obj  
-   │-----└── Debug  
+   │-------└── Debug  
    │  
    ├── JogoDaMemoriaFinalizado.csproj-# Arquivo de projeto  
    ├── Program.cs-------------------------# Código principal para execução do jogo  
