@@ -69,8 +69,8 @@ Jogo interativo com imagens de animais.
 🔮 Melhorias Futuras 📈 
 
 Adicionar sons ao virar as cartas e ao acertar pares.  
-Implementar um temporizador para adicionar dificuldade. 
-Elaborar um Contador de tentativas.     
+Implementar um temporizador para adicionar dificuldade.   
+Elaborar um Contador de tentativas.  
 Exibir a pontuação ou tempo ao final do jogo.  
 Suporte para diferentes conjuntos de imagens. 
 
