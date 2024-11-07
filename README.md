@@ -55,27 +55,28 @@ Abra o projeto no Visual Studio, compile e execute o projeto.
 
 📝Requisitos  
 
-.NET Framework (compatível com o Windows Forms)
-Visual Studio (recomendado para desenvolvimento e execução)
+.NET Framework (compatível com o Windows Forms)  
+Visual Studio (recomendado para desenvolvimento e execução)  
 
 
 🛠️ Tecnologias Utilizadas  
 
-C# - Linguagem de programação
-Windows Forms (.NET Framework) - Biblioteca para interface gráfica
+C# - Linguagem de programação  
+Windows Forms (.NET Framework) - Biblioteca para interface gráfica  
 
 💡 Funcionalidades  
 
-Interface gráfica simples e amigável.
-Jogo interativo com imagens de animais.
-Contador de tentativas e tempo de jogo (se implementado).
+Interface gráfica simples e amigável.  
+Jogo interativo com imagens de animais.  
+Contador de tentativas e tempo de jogo (se implementado).  
 
 📈 Melhorias Futuras  
 
-Adicionar sons ao virar as cartas e ao acertar pares.
-Implementar um temporizador para adicionar dificuldade.
-Exibir a pontuação ou tempo ao final do jogo.
-Suporte para diferentes conjuntos de imagens.
+Adicionar sons ao virar as cartas e ao acertar pares.  
+Implementar um temporizador para adicionar dificuldade.  
+Exibir a pontuação ou tempo ao final do jogo.  
+Suporte para diferentes conjuntos de imagens.  
 
 📄 Licença  
+
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/casote/JogoDaMemoria/blob/main/LICENSE.txt) para mais detalhes.
