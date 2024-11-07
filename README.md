@@ -17,13 +17,19 @@ O objetivo é encontrar todos os pares de cartas.
 
 🚀 Configuração e Execução  
 
-1. Baixe ou clone o repositório:
+Baixe clicando em Code, depois em download.
+
+![image](https://github.com/user-attachments/assets/a3cf9da8-874e-4d0e-b568-5977bbe97d70)
+
+
+*ou* 
+
+clone o repositório:
    ```bash
    git clone https://github.com/casote/JogoDaMemoria.git
+```
 
 Execute através do arquivo **JogoDaMemoriaFinalizado.exe**  
-
-*ou*  
 
 Abra o projeto no Visual Studio, compile e execute o projeto.  
 
